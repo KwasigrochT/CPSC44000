@@ -12,3 +12,21 @@ header {
     text-align: center;
     margin-bottom: auto;
 }
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.main-info {
+    background: #333;
+    color: #fff;
+    padding: 20px;
+}
+.main-info h1 {
+    margin: 0;
+}
+.hobbies, .lewis, .course, .job, .fun-fact {
+    background: #e7e7e7;
+    padding: 15px;
+    margin-bottom: 10px;
+}
