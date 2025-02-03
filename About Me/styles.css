@@ -29,6 +29,10 @@ header {
     text-align: center;
     margin-bottom: auto;
 }
+.image {
+    text-align: center;
+    margin-top: auto;
+}
 .hobbies, .lewis, .course, .job, .fun-fact, .learn, .introduction{
     text-align: left;
     background: #e7e7e7;
